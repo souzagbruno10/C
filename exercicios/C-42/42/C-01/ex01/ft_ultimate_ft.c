@@ -6,7 +6,7 @@
 /*   By: brunogomesdesouza <brunogomesdesouza@st    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2025/08/04 19:55:38 by brunogomesd       #+#    #+#             */
-/*   Updated: 2025/08/04 20:15:56 by brunogomesd      ###   ########.fr       */
+/*   Updated: 2025/08/26 07:38:40 by brunogomesd      ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -15,7 +15,7 @@ void ft_ultimate_ft(int *********nbr)
     *********nbr = 42;
 }
 
-#include <stdio.h>
+/*#include <stdio.h>
 
 int main (void)
 {
@@ -37,4 +37,4 @@ int main (void)
     
 
     return 0;
-}
+}*/

@@ -6,7 +6,7 @@
 /*   By: brunogomesdesouza <brunogomesdesouza@st    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2025/08/25 19:11:02 by brunogomesd       #+#    #+#             */
-/*   Updated: 2025/08/25 19:43:14 by brunogomesd      ###   ########.fr       */
+/*   Updated: 2025/08/26 07:38:01 by brunogomesd      ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -22,7 +22,7 @@ void ft_ultimate_div_mod(int *a, int *b)
 }
 
 
-#include <stdio.h>
+/*#include <stdio.h>
 
 int main (void)
 {
@@ -38,4 +38,4 @@ int main (void)
     printf("Resto: %d ", b);
 
     return 0;
-}
+}*/
