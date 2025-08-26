@@ -6,7 +6,7 @@
 /*   By: brunogomesdesouza <brunogomesdesouza@st    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2025/08/26 06:34:47 by brunogomesd       #+#    #+#             */
-/*   Updated: 2025/08/26 07:04:39 by brunogomesd      ###   ########.fr       */
+/*   Updated: 2025/08/26 07:32:17 by brunogomesd      ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -23,7 +23,7 @@ int ft_strlen(char *str)
     return count;
 }
 
-#include <stdio.h>
+/*#include <stdio.h>
 
 int main (void)
 {
@@ -36,4 +36,4 @@ int main (void)
     printf("%d", lenght);
     
     return 0;
-}
+}*/
