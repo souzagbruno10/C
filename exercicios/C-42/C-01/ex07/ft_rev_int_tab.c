@@ -6,7 +6,7 @@
 /*   By: brunogomesdesouza <brunogomesdesouza@st    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2025/08/28 16:45:34 by brunogomesd       #+#    #+#             */
-/*   Updated: 2025/08/28 18:49:34 by brunogomesd      ###   ########.fr       */
+/*   Updated: 2025/08/28 18:52:11 by brunogomesd      ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -18,7 +18,8 @@ void ft_rev_int_tab(int *tab, int size)
 
    while (i < j)
    {//aqui estabelece de onde elas vao partir
-    temp = tab[i]; // tab 1 vai pra temp
+    //recebem indices
+    temp = tab[i]; // tab 0 vai pra temp
     tab[i] = tab[j];// tab[i] recebe tab[j] = 10
     tab[j] = temp;//tab[j] recebe temp = 1
     
