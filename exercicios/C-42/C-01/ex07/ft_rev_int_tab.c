@@ -6,7 +6,7 @@
 /*   By: brunogomesdesouza <brunogomesdesouza@st    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2025/08/28 16:45:34 by brunogomesd       #+#    #+#             */
-/*   Updated: 2025/08/28 18:46:54 by brunogomesd      ###   ########.fr       */
+/*   Updated: 2025/08/28 18:49:34 by brunogomesd      ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -27,7 +27,7 @@ void ft_rev_int_tab(int *tab, int size)
    }
 }
 
-#include <stdio.h>
+/*#include <stdio.h>
 
 int main ()
 {
@@ -49,4 +49,4 @@ int main ()
    }
    
     return 0;
-}
+}*/
